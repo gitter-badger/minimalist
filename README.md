@@ -1,0 +1,2 @@
+# minimalist
+stoic inventory
