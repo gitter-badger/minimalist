@@ -1,9 +1,9 @@
 # Welcome to Minimalist
 Our mission is stoic inventory.
 
-> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> Perfection is not when there is no more to add, but no more to take away.
 <br/>
-> - Antoine de Saint-Exupe in *Terre des hommes*
+> - Antoine de Saint Exupéry in *Terre des Hommes*
 
 ### Lost Opportunities
 _**Why not having something is bad.**_
